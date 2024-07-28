@@ -1,2 +1,2 @@
 # ddos
-# By @CiConfigOfficial
+# By @piyushofficial
